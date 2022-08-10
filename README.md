@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">Software QA Intern at Mobven</h3>
 
-- 🔭 I’m currently working on **Selenium, Appium and Postman**
+- 🔭 I’m currently working on **Selenium, Appium, WebDriverIO and Postman**
 
 - 🌱 I’m currently learning **Test Automation and Software QA**
 
-- 💬 Ask me about **Selenium and Appium**
+- 💬 Ask me about **Selenium, Appium and WebDriverIO**
 
 - 📫 How to reach me **baristemiz334@gmail.com**
 
