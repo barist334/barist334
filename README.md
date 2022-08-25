@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">Software QA Intern at Mobven</h3>
+<h3 align="center">Software QA Engineer at Mobven</h3>
 
 - 🔭 I’m currently working on **Selenium, Appium, WebDriverIO and Postman**
 
